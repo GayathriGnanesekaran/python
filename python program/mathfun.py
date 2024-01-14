@@ -1,0 +1,10 @@
+import math
+print(math.sqrt(3))
+print(math.ceil(1.3334))
+print(math.floor(1.3334))
+print(math.factorial(5))
+print(math.fabs(-9))
+print(math.pow(2,3))
+print(math.log2(1))
+print(math.e)
+print(math.pi)
